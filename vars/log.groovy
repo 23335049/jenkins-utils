@@ -9,6 +9,6 @@ def info(message) {
     echo "INFO: ${message}"
 }
 
-def waring(message) {
+def warning(message) {
     echo "WARNING: ${message}"
 }
